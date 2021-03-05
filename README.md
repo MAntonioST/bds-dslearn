@@ -40,4 +40,3 @@
 
 Your Name - [@linkedin](https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/) - m.antonyteixeira@gmail.com
 
-Project Link: [https://app.netlify.com/teams/marcoantonioteixeira](https://dev-catalog-cars.netlify.app/)
