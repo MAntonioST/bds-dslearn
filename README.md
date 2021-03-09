@@ -30,14 +30,14 @@
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dev-catalog-cars/blob/main/LICENSE) 
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Your Name - [@linkedin](https://www.linkedin.com/in/marco-antonio-teixeira-5890084a/) - m.antonyteixeira@gmail.com
 
