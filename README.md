@@ -1,7 +1,7 @@
 <p align="center">
 
  
-  <h1 style= display:none lign="center">DSLearn</h3>
+  <h1 style= display:none lign="center">DSLearn - Bootcamp DevSuperior</h3>
  
 
 
@@ -11,14 +11,15 @@
 <p align="justify"> 
   O sistema consiste em uma plataforma de ensino que mantém informações de cursos, suas turmas e alunos, bem como um fórum para perguntas e respostas 
   sobre os conteúdos do curso. Os atores do sistema podem ser alunos e professores. Há também usuários administradores, que são os únicos autorizados a
-  cadastrar cursos e turmas, organized by DevSuperior.
-  https://devsuperior.com.
+  cadastrar cursos e turmas. https://devsuperior.com.
  </p>
 
 ## Diagrama Conceitual
 
+![Web 1](https://github.com/MAntonioST/bds-dslearn/blob/main/backend/assets/diagrama_conceitual_dslearn.png)
 
-### Built With
+
+### Tecnologias
 
 * Java
 * Spring Boot
