@@ -32,7 +32,7 @@
 <!-- LICENSE -->
 ## Licença
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MarcoAntonioTeixeira/dev-catalog-cars/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MAntonioST/dev-catalog-cars/blob/main/LICENSE) 
 
 
 
