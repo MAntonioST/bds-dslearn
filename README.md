@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 style= display:none lign="center">DSLearn - Bootcamp DevSuperior</h3>
+  <h1 style= display:none lign="center">DSLearn - Bootcamp DevSuperior</h1>
  
  </p>
 
