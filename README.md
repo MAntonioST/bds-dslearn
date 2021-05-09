@@ -1,7 +1,4 @@
 <p align="center">
- <h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
 
   <h1 style= display:none lign="center">DSLearn - Bootcamp DevSuperior</h3>
  
@@ -26,10 +23,7 @@
 
 * Java
 * Spring Boot
-* Spring Security
-* JWT
-* Oauth2
-* React Native
+* ReactJ
 
 
 <!-- LICENSE -->
